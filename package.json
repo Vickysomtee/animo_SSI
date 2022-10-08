@@ -9,6 +9,7 @@
   "author": "Victo Anene",
   "license": "ISC",
   "dependencies": {
+    "@aries-framework/core": "^0.2.4",
     "@types/express": "^4.17.14",
     "@types/node": "^18.8.3"
   }

@@ -1,6 +1,6 @@
 import { Agent } from "@aries-framework/core";
 
-interface attribute {
+type attribute = {
   name: string,
   value: string
 }
